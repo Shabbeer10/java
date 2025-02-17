@@ -10,8 +10,6 @@ This repository documents my path to learning Java. It includes projects, notes,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -29,18 +27,22 @@ This repository contains various Java projects and exercises that I’ve worked 
 - Multithreading and Concurrency
 - Java Frameworks (Spring, Hibernate) [*future goals*]
 
-## Future Projects
+## Projects
 
 ### 1. Hello World
+
 The classic "Hello, World!" program in Java.
 
 ### 2. Calculator
+
 A basic calculator to perform arithmetic operations using Java.
 
 ### 3. Student Management System
+
 A simple console-based Java project for managing student records.
 
 ### 4. Tic-Tac-Toe Game
+
 A command-line version of the popular Tic-Tac-Toe game written in Java.
 
 ## Installation
@@ -50,7 +52,7 @@ To run the code in this repository, ensure you have Java installed on your machi
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/java-learning-journey.git
+    git clone https://github.com/shabbeer10/java.git
     ```
 
 2. Navigate to the project directory:
@@ -68,7 +70,7 @@ To run the code in this repository, ensure you have Java installed on your machi
 
 ## Usage
 
-Each project folder contains its own README file with detailed instructions on how to run and use the code. 
+Each project folder contains its own README file with detailed instructions on how to run and use the code.
 
 ## Resources
 
